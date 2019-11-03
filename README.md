@@ -3,5 +3,8 @@ NLP model to convert speech to text for a Category/Tag name inputted by the user
 
 # How to Use
 - Install all the required python libraries.
-- Run Main.py to see the output of the given video link in the python file.
-- Run GUI
+- Run Main.py and enter the link of the video and speak the which part of the video you want to see.
+- Run mainGUI.py to view the functionality of the model using GUI.
+
+# Methods Used
+- K-Means Clustering to group the occurrence of the word and playing the appropriate part of the video.
